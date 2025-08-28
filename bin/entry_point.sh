@@ -19,8 +19,16 @@ manage_gemfile_lock() {
     fi
 }
 
+# start_jekyll() {
+#     manage_gemfile_lock
+#     bundle exec jekyll serve --watch --port=8080 --host=0.0.0.0 --livereload --verbose --trace --force_polling &
+# }
+
 start_jekyll() {
     manage_gemfile_lock
+    echo "Cleaning Jekyll cache..."
+    bundle exec jekyll clean
+    echo "Starting Jekyll server..."
     bundle exec jekyll serve --watch --port=8080 --host=0.0.0.0 --livereload --verbose --trace --force_polling &
 }
 

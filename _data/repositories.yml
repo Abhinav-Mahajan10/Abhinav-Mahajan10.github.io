@@ -1,14 +1,28 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Abhinav-Mahajan10
 
-repo_description_lines_max: 2
+repo_description_lines_max: 50
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - Abhinav-Mahajan10/Sudoku-Solver
+  - Abhinav-Mahajan10/Rubiks-Cube-Solver
+  - Abhinav-Mahajan10/Human-Activity-Recognition
+  - Abhinav-Mahajan10/Aid-Escalating-Internet-Coverage
+  - Abhinav-Mahajan10/pothole
+  - Abhinav-Mahajan10/Independent-Component-Analysis
+  - Abhinav-Mahajan10/Face-Verification-and-Inpainting
+  - Abhinav-Mahajan10/SORT      
+  - Abhinav-Mahajan10/Image_Captioning 
+  - Abhinav-Mahajan10/5G-numerology-design
+  - Abhinav-Mahajan10/Research-paper-on-Edge-Computing
+  - Abhinav-Mahajan10/Advanced-and-Faster-ECN 
+  - Abhinav-Mahajan10/Multipurpose-Audio-System 
+  - Abhinav-Mahajan10/Evaluation-of-Etsy
+  - Abhinav-Mahajan10/Computer-Architecture-Assignments
+  - Abhinav-Mahajan10/Byzantine-Fault-Tolerance-Implementation
+  - Abhinav-Mahajan10/Banking-System-Emulator 
+  - Abhinav-Mahajan10/gif-to-tiff-converter
+  - Abhinav-Mahajan10/Paper-Toss
+  - Abhinav-Mahajan10/ETHernals
+  - Abhinav-Mahajan10/zense-website-new
+  - Abhinav-Mahajan10/simplelogin 
