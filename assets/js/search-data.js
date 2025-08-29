@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-news",
-          title: "News",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/news/";
-          },
-        },{id: "nav-publications",
+  },{id: "nav-publications",
           title: "Publications",
           description: "publications by categories in reversed chronological order.",
           section: "Navigation",
@@ -28,7 +21,7 @@ ninja.data = [{
           description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/assets/pdf/Abhinav_Resume.pdf";
+            window.location.href = "/assets/pdf/Abhinav_Mahajan_Resume.pdf";
           },
         },{id: "nav-repositories",
           title: "Repositories",
