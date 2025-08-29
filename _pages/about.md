@@ -40,8 +40,33 @@ I recently graduated (July 2025) from the Dual-Degree (B.Tech + M.Tech) program 
 <!-- I’ve had the privilege of interning twice at Adobe as a Summer Research Intern in the Collaborative Creativity Team, where I developed AI solutions for evaluating and refining graphic design aesthetics, resulting in multiple papers and a patent (USPTO filing in progress). I also spent six months at Amazon as an Applied Scientist Intern, stepping outside my comfort zone, outside Computer Vision, to work on customer next-purchase interest category propensity estimation for ranking interest categories for each customer and vice versa. This system is now in pre-production, and owing to our novel innovations, we're preparing a submission to the Applied Track of ACM SIGMOD 2026.
 
 Thanks to these experiences, I had received full-time offers from both Adobe (Machine Learning Engineer) and Amazon (Applied Scientist I) in India. -->
-I had the opportunity to intern twice at Adobe in the Collaborative Creativity Team, where I worked on AI-based solutions for evaluating and refining graphic design aesthetics. These experiences allowed me to research, innovate and implement practical solutions for real-world creative workflows.
+<!-- I had the opportunity to intern twice at Adobe in the Collaborative Creativity Team, where I worked on AI-based solutions for evaluating and refining graphic design aesthetics. These experiences allowed me to research, innovate and implement practical solutions for real-world creative workflows.
 
 I also spent six months at Amazon as an Applied Scientist Intern, working on customer next-purchase interest category propensity estimation. In this role, I designed models and systems to rank interest categories for each customer and vice versa, exploring problems beyond Computer Vision and gaining experience in large-scale data-driven modeling.
 
+Building on these experiences, I’m excited to explore 3D Vision and the intersection of Vision and Reinforcement Learning with Robotics at CMU. I am also actively seeking Summer 2026 internships in Computer Vision and full-time opportunities in Research or Machine Learning Engineering after graduation in December 2026, and I welcome discussions or collaborations with anyone interested in these areas. -->
+I had the opportunity to intern twice at Adobe in the Collaborative Creativity Team, where I worked on AI-based solutions for evaluating and refining graphic design aesthetics and received a Machine Learning Engineer offer from Adobe for my efforts. 
+
+I also spent six months at Amazon as an Applied Scientist Intern, working on customer next-purchase interest category propensity estimation. In this role, I designed models and systems to rank interest categories for each customer and vice versa, exploring problems beyond Computer Vision and gaining experience in large-scale data-driven modeling. I was later offered an Applied Scientist I role at Amazon India.
+
 Building on these experiences, I’m excited to explore 3D Vision and the intersection of Vision and Reinforcement Learning with Robotics at CMU. I am also actively seeking Summer 2026 internships in Computer Vision and full-time opportunities in Research or Machine Learning Engineering after graduation in December 2026, and I welcome discussions or collaborations with anyone interested in these areas.
+
+### News
+
+- **[August 2025]** Started my Master's in Computer Vision at Carnegie Mellon University.
+- **[July 2025]** "Make-It-Pretty" ID passed internal evaluation at Adobe. Awaiting USPTO filing (expected Sept 2025).
+- **[July 2025]** Offered a Applied Scientist-1 role from Amazon, India in the International Machine Learning (IML) team.
+- **[June 2025]** Concluded internship at Amazon, India. Preparing a submission for ACM SIGMOD 2026.
+- **[April 2025]** Selected as a reviewer for Amazon's Machine Learning Conference (AMLC).
+- **[March 2025]** Reviewer for ICCV 2025.
+- **[February 2025]** Presented *Design-o-meter* at WACV 2025 in Tucson, AZ.
+- **[January 2025]** Began Applied Scientist internship at Amazon, Bangalore, India. Worked with Prakash MC on next-purchase propensity modeling.
+- **[August 2024]** Offered a Machine Learning Engineer role at Adobe Firefly, India.
+- **[August 2024]** Started MITACS internship at Tech University of Ontario, Canada on UI-based sentiment analysis under Pooria Madani.
+- **[May 2024]** Returned to Adobe, India for a summer research internship under KJ Joseph. Worked on *Make-It-Pretty*.
+- **[August 2024]** Teaching Assistant for Machine Learning (AI 511), Fall semester.
+- **[January 2024]** Teaching Assistant for Visual Learning (AI 825), Spring semester.
+- **[September 2023]** Received First Prize for the Smartathon Hackathon held by SDAIA, Riyadh, Saudi Arabia.
+- **[May 2023]** Began summer research internship at Adobe, India under KJ Joseph. Worked on *Design-o-meter*.
+- **[May 2023]** *AVA* paper accepted at WCISVR 2023, Canada.
+- **[May 2022]** Worked in Multimodal Perception Lab, IIIT-B in collaboration with University of Toronto on virtual rehabilitation agents (*AVA*).

@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 permalink: /news/
 title: News
@@ -6,23 +6,6 @@ description:
 nav: true
 nav_order: 2
 ---
-
-<!-- - **[August 2025]** Starting my Master's in Computer Vision at Carnegie Mellon University.
-- **[July 2025]** "Make-It-Pretty" ID passed internal evaluation at Adobe. Awaiting filing to the USPTO (approx Sept. 2026). 
-- **[July 2025]** Received an inclination for the Applied Scientist-1 role from Amazon.
-- **[June 2025]** Concluded my internship at Amazon, India. Started Preparing a submission for ACM SIGMOD 2026.
-- **[April 2025]** Got selected as a reviewer for Amazon's Machine Learning Conference.
-- **[March 2025]** ICCV 2025 Reviewer
-- **[February 2025]** Presented Design-o-meter at WACV 2025, Tucson, AZ.
-- **[January 2025]** Started my Applied Scientist internship at Amazon, Bangalore, India. Worked under Prakash MC on customer's next-purchase proensity towards interest categories.
-- **[August 2024]** Received a Machine Learning Engineer job offer in Firefly from Adobe, India.
-- **[August 2024]** Started my 3-month MITACS internship in Tech University of Ontario, ON, Canada on Sentiment Analysis of Users from UI activity.
-- **[May 2024]** Returned to Adobe, India for a summer research internship under KJ Joseph. Worked on "Make-it-Pretty"
-- **[January 2024]** Teaching Assistant for the course Visual Learning (AI 825) for the Spring semester.
-- **[August 2024]** Teaching Assistant for the course Machine Learning (AI 511) for the Fall semester.
-- **[May 2023]** Started my Summer reserach internship at Adobe, India under KJ Joseph. Worked on "Design-o-meter"
-- **[May 2023]** "AVA" paper accepted at WCISVR 2023, Canada. 
-- **[May 2022]** Worked in Multimodal Perception Lab, IIIT-B in collaboration with University of Tornoto on virtual rehabliation agents ("AVA"). -->
 
 - **[August 2025]** Started my Master's in Computer Vision at Carnegie Mellon University.
 - **[July 2025]** "Make-It-Pretty" ID passed internal evaluation at Adobe. Awaiting USPTO filing (expected Sept 2025).
@@ -48,4 +31,4 @@ title: news
 permalink: /news/
 ---
 
-{% include news.liquid %} -->
+{% include news.liquid %} --> -->
