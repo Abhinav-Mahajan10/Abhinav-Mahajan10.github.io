@@ -64,9 +64,9 @@ Building on these experiences, I’m excited to explore 3D Vision and the inters
 - **[August 2024]** Offered a Machine Learning Engineer role at Adobe Firefly, India.
 - **[August 2024]** Started MITACS internship at Tech University of Ontario, Canada on UI-based sentiment analysis under Pooria Madani.
 - **[May 2024]** Returned to Adobe, India for a summer research internship under KJ Joseph. Worked on *Make-It-Pretty*.
-- **[August 2024]** Teaching Assistant for Machine Learning (AI 511), Fall semester.
 - **[January 2024]** Teaching Assistant for Visual Learning (AI 825), Spring semester.
 - **[September 2023]** Received First Prize for the Smartathon Hackathon held by SDAIA, Riyadh, Saudi Arabia.
+- **[August 2023]** Teaching Assistant for Machine Learning (AI 511), Fall semester.
 - **[May 2023]** Began summer research internship at Adobe, India under KJ Joseph. Worked on *Design-o-meter*.
 - **[May 2023]** *AVA* paper accepted at WCISVR 2023, Canada.
 - **[May 2022]** Worked in Multimodal Perception Lab, IIIT-B in collaboration with University of Toronto on virtual rehabilitation agents (*AVA*).
