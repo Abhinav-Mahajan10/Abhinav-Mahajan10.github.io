@@ -53,6 +53,8 @@ Building on these experiences, I’m excited to explore 3D Vision and the inters
 
 ### News
 
+- **[January 2026]** Starting my capstone project, "Bandwidth-aware streaming for 4D Reconstructions" under Prof. De La Torre
+- **[December 2025]** Reviewer for CVPR 2026.
 - **[August 2025]** Started my Master's in Computer Vision at Carnegie Mellon University.
 - **[July 2025]** "Make-It-Pretty" ID passed internal evaluation at Adobe. Awaiting USPTO filing (expected Sept 2025).
 - **[July 2025]** Offered a Applied Scientist-1 role from Amazon, India in the International Machine Learning (IML) team.
