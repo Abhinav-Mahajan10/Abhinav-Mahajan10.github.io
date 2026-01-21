@@ -32,10 +32,9 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Hi! I'm currently pursuing a Master's in Computer Vision at [Carnegie Mellon University](https://www.cs.cmu.edu/) in the [Robotics Institute](https://www.ri.cmu.edu/) within the [School of Computer Science](https://www.cs.cmu.edu/). I'm passionate about research and love diving into new and challenging concepts across vision and multimodal AI.
+
 
 <!-- I recently graduated (July 2025) from the Dual-Degree (B.Tech + M.Tech) program at IIIT Bangalore, where I worked in the Multimodal Perception Lab. My research focused on virtual rehabilitation agents for stroke patients, leading to a paper accepted at WCISVR 2023, along with practical deployments such as hospital-facing web tools. -->
-I recently graduated (July 2025) from the Dual-Degree (B.Tech + M.Tech) program at IIIT Bangalore, with a dual specialization in Artificial Intelligence/Machine Learning (AIML) and Network Communication. During my time there, I worked in the Multimodal Perception Lab, focusing on virtual rehabilitation agents for stroke patients.
 
 <!-- I’ve had the privilege of interning twice at Adobe as a Summer Research Intern in the Collaborative Creativity Team, where I developed AI solutions for evaluating and refining graphic design aesthetics, resulting in multiple papers and a patent (USPTO filing in progress). I also spent six months at Amazon as an Applied Scientist Intern, stepping outside my comfort zone, outside Computer Vision, to work on customer next-purchase interest category propensity estimation for ranking interest categories for each customer and vice versa. This system is now in pre-production, and owing to our novel innovations, we're preparing a submission to the Applied Track of ACM SIGMOD 2026.
 
@@ -45,15 +44,30 @@ Thanks to these experiences, I had received full-time offers from both Adobe (Ma
 I also spent six months at Amazon as an Applied Scientist Intern, working on customer next-purchase interest category propensity estimation. In this role, I designed models and systems to rank interest categories for each customer and vice versa, exploring problems beyond Computer Vision and gaining experience in large-scale data-driven modeling.
 
 Building on these experiences, I’m excited to explore 3D Vision and the intersection of Vision and Reinforcement Learning with Robotics at CMU. I am also actively seeking Summer 2026 internships in Computer Vision and full-time opportunities in Research or Machine Learning Engineering after graduation in December 2026, and I welcome discussions or collaborations with anyone interested in these areas. -->
-I had the opportunity to intern twice at Adobe in the Collaborative Creativity Team, where I worked on AI-based solutions for evaluating and refining graphic design aesthetics and received a Machine Learning Engineer offer from Adobe for my efforts. 
+
+<!-- I had the opportunity to intern twice at Adobe in the Collaborative Creativity Team, where I worked on AI-based solutions for evaluating and refining graphic design aesthetics and received a Machine Learning Engineer offer from Adobe for my efforts. 
+
+I recently graduated (July 2025) from the Dual-Degree (B.Tech + M.Tech) program at IIIT Bangalore, with a dual specialization in Artificial Intelligence/Machine Learning (AIML) and Network Communication. During my time there, I worked in the Multimodal Perception Lab, focusing on virtual rehabilitation agents for stroke patients.
 
 I also spent six months at Amazon as an Applied Scientist Intern, working on customer next-purchase interest category propensity estimation. In this role, I designed models and systems to rank interest categories for each customer and vice versa, exploring problems beyond Computer Vision and gaining experience in large-scale data-driven modeling. I was later offered an Applied Scientist I role at Amazon India.
 
 Building on these experiences, I’m excited to explore 3D Vision and the intersection of Vision and Reinforcement Learning with Robotics at CMU. I am also actively seeking Summer 2026 internships in Computer Vision and full-time opportunities in Research or Machine Learning Engineering after graduation in December 2026, and I welcome discussions or collaborations with anyone interested in these areas.
 
+Hi! I'm currently pursuing a Master's in Computer Vision at [Carnegie Mellon University](https://www.cs.cmu.edu/) in the [Robotics Institute](https://www.ri.cmu.edu/) within the [School of Computer Science](https://www.cs.cmu.edu/). I'm passionate about research and love diving into new and challenging concepts across vision and multimodal AI. -->
+
+Hi! I'm a Master's student in Computer Vision at Carnegie Mellon University's [School of Computer Science](https://www.cs.cmu.edu/), [Robotics Institute](https://www.ri.cmu.edu/). My research interests span 3D Vision, multimodal AI, and robotic perception.
+
+At CMU, I recently started working with [Professor Fernando de la Torre](https://www.cs.cmu.edu/~ftorre/) on Bandwidth Aware 4D Streaming. I'm also developing DORMA (Deformable Object Rapid Motor Adaptation) with [Professor Jeff Ichnowski](https://ichnow.ski/), which uses vision to estimate physical properties of deformable objects like ropes, enabling robots to adaptively grasp and manipulate them. DORMA has achieved strong real-world results and is under review at a premier robotics conference.
+
+Previously, I interned at Adobe's Collaborative Creativity Team, developing AI systems for design aesthetics evaluation (deployed in Adobe Express) and harmonization. This work resulted in a WACV 2025 publication, a paper under review, and a provisional patent. At Amazon, I built large-scale propensity models for customer interest propensity modelling that improved recall by 3.2x and F1 by 49% and had a positive A/B test. The system is now used internally across multiple teams for customer targeting, with work under review at a major conference.
+
+I graduated from IIIT Bangalore's Dual-Degree program, where I worked with [Professor Dinesh Babu Jayagopi](https://www.iiitb.ac.in/faculty/dinesh-babu-jayagopi) and [Viswanath Gopalakrishnan](https://sites.google.com/view/viswanathgk) on multimodal perception systems.
+
+I'm actively seeking Summer 2026 internships and full-time opportunities (post-December 2026 graduation) in Computer Vision, ML Engineering, or Research roles, with plans to sometime pursue a PhD focused on 3D vision and embodied AI.
+
 ### News
 
-- **[January 2026]** Starting my capstone project, "Bandwidth-aware streaming for 4D Reconstructions" under Prof. De La Torre
+- **[January 2026]** Started my capstone project, "Bandwidth-aware streaming for 4D Reconstructions" under Prof. De La Torre
 - **[December 2025]** Reviewer for CVPR 2026.
 - **[August 2025]** Started my Master's in Computer Vision at Carnegie Mellon University.
 - **[July 2025]** "Make-It-Pretty" ID passed internal evaluation at Adobe. Awaiting USPTO filing (expected Sept 2025).
