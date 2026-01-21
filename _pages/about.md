@@ -61,7 +61,7 @@ At CMU, I recently started working with [Professor Fernando de la Torre](https:/
 
 Previously, I interned at Adobe's Collaborative Creativity Team, developing AI systems for design aesthetics evaluation (deployed in Adobe Express) and harmonization. This work resulted in a WACV 2025 publication, a paper under review, and a provisional patent. At Amazon, I built large-scale propensity models for customer interest propensity modelling that improved recall by 3.2x and F1 by 49% and had a positive A/B test. The system is now used internally across multiple teams for customer targeting, with work under review at a major conference.
 
-I graduated from IIIT Bangalore's Dual-Degree program, where I worked with [Professor Dinesh Babu Jayagopi](https://www.iiitb.ac.in/faculty/dinesh-babu-jayagopi) and [Viswanath Gopalakrishnan](https://sites.google.com/view/viswanathgk) on multimodal perception systems.
+I recently graduated (July 2025) from IIIT Bangalore's Dual-Degree program (B. Tech + M. Tech), where I worked with [Professor Dinesh Babu Jayagopi](https://www.iiitb.ac.in/faculty/dinesh-babu-jayagopi) and [Viswanath Gopalakrishnan](https://sites.google.com/view/viswanathgk) on various Computer Vision and multimodal problem statements.
 
 I'm actively seeking Summer 2026 internships and full-time opportunities (post-December 2026 graduation) in Computer Vision, ML Engineering, or Research roles, with plans to sometime pursue a PhD focused on 3D vision and embodied AI.
 
