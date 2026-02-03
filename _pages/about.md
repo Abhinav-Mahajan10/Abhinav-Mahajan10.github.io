@@ -70,9 +70,9 @@ I'm actively seeking Summer 2026 internships and full-time opportunities (post-D
 - **[January 2026]** Started my capstone project, "Bandwidth-aware streaming for 4D Reconstructions" under Prof. De La Torre
 - **[December 2025]** Reviewer for CVPR 2026.
 - **[August 2025]** Started my Master's in Computer Vision at Carnegie Mellon University.
-- **[July 2025]** "Make-It-Pretty" ID passed internal evaluation at Adobe. Awaiting USPTO filing (expected Sept 2025).
+- **[July 2025]** "Make-It-Pretty" ID passed internal evaluation at Adobe, US Patent filed, number: 19/395,524.
 - **[July 2025]** Offered a Applied Scientist-1 role from Amazon, India in the International Machine Learning (IML) team.
-- **[June 2025]** Concluded internship at Amazon, India. Preparing a submission for ACM SIGMOD 2026.
+- **[June 2025]** Concluded internship at Amazon, India. Preparing a submission for KDD 2026.
 - **[April 2025]** Selected as a reviewer for Amazon's Machine Learning Conference (AMLC).
 - **[March 2025]** Reviewer for ICCV 2025.
 - **[February 2025]** Presented *Design-o-meter* at WACV 2025 in Tucson, AZ.
