@@ -55,34 +55,40 @@ Building on these experiences, I’m excited to explore 3D Vision and the inters
 
 Hi! I'm currently pursuing a Master's in Computer Vision at [Carnegie Mellon University](https://www.cs.cmu.edu/) in the [Robotics Institute](https://www.ri.cmu.edu/) within the [School of Computer Science](https://www.cs.cmu.edu/). I'm passionate about research and love diving into new and challenging concepts across vision and multimodal AI. -->
 
-Hi! I'm a Master's student in Computer Vision at Carnegie Mellon University's [Robotics Institute](https://www.ri.cmu.edu/). My research interests span 3D Vision, multimodal ML, and robotic perception.
+Hi! I'm a Master's student in Computer Vision at Carnegie Mellon University's [Robotics Institute](https://www.ri.cmu.edu/). My research interests span 3D Vision, multimodal ML, and robotics.
 
-At CMU, I am working with [Professor Fernando de la Torre](https://www.cs.cmu.edu/~ftorre/) on Bandwidth Aware 4D Streaming Gaussian Splatting representations. I've also developed DORMA (Deformable Object Rapid Motor Adaptation) with [Professor Jeff Ichnowski](https://ichnow.ski/), a vision based SysID method to estimate physical properties of deformable objects like ropes, enabling robots to adaptively manipulate them for tasks (such as 3D point striking, draping etc.) achieving strong real-world results and under review at a premier conference.
+<!-- At CMU, I am working with [Professor Fernando de la Torre](https://www.cs.cmu.edu/~ftorre/) on Streaming 4D Gaussians. I've also developed DORMA (Deformable Object Rapid Motor Adaptation) with [Professor Jeff Ichnowski](https://ichnow.ski/), a vision based SysID method to estimate physical properties of deformable objects like ropes, enabling robots to adaptively manipulate them for tasks (such as 3D point striking, draping etc.) achieving strong real-world results and under review at a premier conference. -->
 
-Previously, I interned twice at Adobe's Collaborative Creativity Team, developing Computer Vision solutions for design aesthetics evaluation and harmonization. This work has been deployed in Adobe Express, presented at WACV 2025, CVUE at CVPR, 2026 and a provisional patent. At Amazon, I designed a large-scale two-stage generation and retrieval pipeline for User-Interest Category propensity at Amazon, achieving 3.2x recall gains, positive A/B tests across campaigns and is deployed internally across multiple teams for customer targeting, with work under review at a premier conference.
+At CMU, I am working with [Professor Fernando de la Torre](https://www.cs.cmu.edu/~ftorre/) on Streaming 4D Gaussians. With [Professor Jeff Ichnowski](https://ichnow.ski/), I've built a zero-shot rope manipulation pipeline (for tasks such as 3D point striking, draping etc.) achieving strong real-world results and is accepted at CoRL 2026!
 
-I graduated from IIIT Bangalore's Dual-Degree program (B. Tech + M. Tech, July 2025), where I worked with [Professor Dinesh Babu Jayagopi](https://www.iiitb.ac.in/faculty/dinesh-babu-jayagopi) and [Viswanath Gopalakrishnan](https://sites.google.com/view/viswanathgk) on various Computer Vision and multimodal problem statements.
+<!-- Previously, I interned twice at Adobe's Collaborative Creativity Team, developing Computer Vision solutions for design aesthetics evaluation and harmonization. This work has been deployed in Adobe Express, presented at WACV 2025, CVUE at CVPR, 2026 and a provisional patent. At Amazon, I designed a large-scale two-stage generation and retrieval pipeline for User-Interest Category propensity at Amazon, achieving 3.2x recall gains, positive A/B tests across campaigns and is deployed internally across multiple teams for customer targeting, with work under review at a premier conference. -->
 
-I'm actively seeking Summer 2026 internships and full-time opportunities (post-December 2026 graduation) in Computer Vision, ML Engineering, or Research roles, with plans to eventually pursue a PhD focused on 3D vision and embodied AI.
+<!-- I have had the privilege of interning in diverse domains and frontier labs, across core research (resulting in multiple papers, patent), as well as development and shipping tools to production. I've twice done Computer Vision research at Adobe (on design intelliegence), Information Retrival research at Amazon (User-Interest tagging at extreme scale) and recently Perception at an Autonomous Trucking company, Aurora Innovation (Label-Free Perception Performance forecasting).  -->
 
-I have been actively reviewing for conferences (CVPR, ICCV, ECCV, NeurIPS, and the Amazon Machine Learning Conference (AMLC)).
+My industry experience spans core research and production, with work leading to both publications, patents, as well as deployed tools. I've done two computer vision research internships at Adobe, focused on design intelligence, and information retrieval research at Amazon, focused on large-scale user-interest modeling. Most recently, I worked on perception at Aurora Innovation, an autonomous trucking company, focusing on label-free perception performance forecasting.
+
+I graduated from IIIT Bangalore's Dual-Degree program (B. Tech + M. Tech, July 2025), where I worked with [Professor Dinesh Babu Jayagopi](https://www.iiitb.ac.in/faculty/dinesh-babu-jayagopi) and [Viswanath Gopalakrishnan](https://sites.google.com/view/viswanathgk) on various Computer Vision and multimodal problem statements such as virtual avatars and 6D Pose Estimation.
+
+<!-- I'm actively seeking Summer 2026 internships and full-time opportunities (post-December 2026 graduation) in Computer Vision, ML Engineering, or Research roles, with plans to eventually pursue a PhD focused on 3D vision and embodied AI. -->
+
+I’m open to exploring full-time (starting Jan 2027) research and applied science opportunities in autonomous driving, embodied AI, 3D vision, and quantitative research.
+
+Outside work, I enjoy football, photography, playing guitar, and chess.
+
+<!-- I have been actively reviewing for conferences (CVPR, ICCV, ECCV, NeurIPS, and the Amazon Machine Learning Conference (AMLC)). -->
 
 ### News
 
-- **[April 2026]** *Make-It-Pretty* accepted in CVUE Workshop at CVPR 2026. 
-- **[January 2026]** Started my capstone project, "Bandwidth-aware streaming for 4D Reconstructions" under Prof. De La Torre
-- **[August 2025]** Started my Master's in Computer Vision at Carnegie Mellon University.
-- **[July 2025]** "Make-It-Pretty" ID passed internal evaluation at Adobe, US Patent filed, number: 19/395,524.
-- **[July 2025]** Offered a Applied Scientist-1 role from Amazon, India in the International Machine Learning (IML) team.
-- **[June 2025]** Concluded internship at Amazon, India. Submitted papers to internal and external conferences and KT to internal teams for deployment.
-- **[February 2025]** Presented *Design-o-meter* at WACV 2025 in Tucson, AZ.
-- **[January 2025]** Began Applied Scientist internship at Amazon, Bangalore, India. Worked with Prakash MC on user-interest propensity modeling.
-- **[August 2024]** Offered a Machine Learning Engineer role at Adobe Firefly, India.
-- **[August 2024]** Started MITACS internship at Tech University of Ontario, Canada on UI-based sentiment analysis under Prof. Pooria Madani.
-- **[May 2024]** Returned to Adobe Reserach, for a summer research internship under KJ Joseph. Worked on *Make-It-Pretty*.
-- **[January 2024]** Teaching Assistant for Visual Learning (AI 825), Spring semester.
-- **[September 2023]** Received First Prize for the Smartathon Hackathon held by SDAIA, Riyadh, Saudi Arabia.
-- **[August 2023]** Teaching Assistant for Machine Learning (AI 511), Fall semester.
-- **[May 2023]** Began summer research internship at Adobe Research, under KJ Joseph. Worked on *Design-o-meter*.
-- **[May 2023]** *AVA* paper accepted at WCISVR 2023, Canada.
-- **[May 2022]** Started working in the Multimodal Perception Lab, IIIT-B in collaboration with University of Toronto on virtual rehabilitation agents (*AVA*).
+- **[September 2026]** [*Wiggle and Go!*](https://arxiv.org/abs/2604.22102) accepted at CoRL 2026!
+- **[August 2026]** [*MERIT*](https://arxiv.org/abs/2608.28931) accepted at EMNLP 2026!
+- **[June 2026]** Joined Aurora Innovation for a summer internship in perception.
+- **[June 2026]** Presented [*Components-to-Designs*](https://arxiv.org/abs/2604.14605) as a poster at the CVEU Workshop at CVPR 2026.
+- **[August 2025]** Started my Master's in Computer Vision at CMU.
+- **[February 2025]** Presented [*Design-o-meter*](https://ieeexplore.ieee.org/abstract/document/10944044) as a poster at WACV 2025.
+- **[January 2025]** Spring internship as Applied Scientist at Amazon. Worked on *MERIT*
+- **[August 2024]** Awarded MITACS Fellowship; Spent the Fall Semester at OTU, Canada working on UI-based sentiment analysis under Prof. Pooria Madani.
+- **[May 2024]** Returned to Adobe Research for the summer, working on *Components-to-designs*
+- **[September 2023]** Won SDAIA's Smartathon Hackathon. 
+- **[May 2023]** Joined Adobe Research for the summer, working on *Design-o-meter*.
+- **[May 2023]** [*AVA*](https://www.researchgate.net/publication/370934300_AVA_AI-driven_Virtual_Rehabilitation_Assistant) accepted at WCISVR 2023!
+- **[May 2022]** Spent the summer working on virtual rehabilitation agents (*AVA*) in collaboration with University of Toronto x MPL lab, IIIT-B.
