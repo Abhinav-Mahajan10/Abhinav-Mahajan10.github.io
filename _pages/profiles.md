@@ -9,10 +9,10 @@ nav_order: 7
 
 ## Academic Advisors & Mentors
 
-- [Prof. Fernando de la Torre](https://www.cs.cmu.edu/~ftorre/) – CMU
-  My capstone advisor in the **Human Sensing Lab**, where I work on streaming 4D reconstructions.
+- [Prof. Fernando de la Torre](https://www.cs.cmu.edu/~ftorre/) – CMU  
+  My capstone advisor in the **Human Sensing Lab**, where I work on streaming 4D Gaussian Splatting reconstructions.
   
-- [Prof. Jeffrey Ichnowski](https://ichnow.ski/) – CMU
+- [Prof. Jeffrey Ichnowski](https://ichnow.ski/) – CMU  
   Previously advised my research on zero-shot rope manipulation in the **Momentum Lab**.
   
 - [Prof. Dinesh Babu Jayagopi](https://www.iiitb.ac.in/faculty/dinesh-babu-jayagopi) & [Prof. Viswanath Gopalakrishnan](https://www.iiitb.ac.in/faculty/viswanath-gopalakrishnan) – IIIT Bangalore  
