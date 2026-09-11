@@ -85,10 +85,10 @@ Outside work, I enjoy football, photography, playing guitar, and chess.
 - **[June 2026]** Presented [*Components-to-Designs*](https://arxiv.org/abs/2604.14605) as a poster at the CVEU Workshop at CVPR 2026.
 - **[August 2025]** Started my Master's in Computer Vision at CMU.
 - **[February 2025]** Presented [*Design-o-meter*](https://ieeexplore.ieee.org/abstract/document/10944044) as a poster at WACV 2025.
-- **[January 2025]** Spring internship as Applied Scientist at Amazon. Worked on *MERIT*
+- **[January 2025]** Spring internship as Applied Scientist at Amazon. Worked on [*MERIT*](https://arxiv.org/abs/2608.28931)
 - **[August 2024]** Awarded MITACS Fellowship; Spent the Fall Semester at OTU, Canada working on UI-based sentiment analysis under Prof. Pooria Madani.
-- **[May 2024]** Returned to Adobe Research for the summer, working on *Components-to-designs*
+- **[May 2024]** Returned to Adobe Research for the summer, worked on [*Components-to-Designs*](https://arxiv.org/abs/2604.14605)
 - **[September 2023]** Won SDAIA's Smartathon Hackathon. 
-- **[May 2023]** Joined Adobe Research for the summer, working on *Design-o-meter*.
+- **[May 2023]** Joined Adobe Research for the summer, worked on [*Design-o-meter*](https://ieeexplore.ieee.org/abstract/document/10944044).
 - **[May 2023]** [*AVA*](https://www.researchgate.net/publication/370934300_AVA_AI-driven_Virtual_Rehabilitation_Assistant) accepted at WCISVR 2023!
 - **[May 2022]** Spent the summer working on virtual rehabilitation agents (*AVA*) in collaboration with University of Toronto x MPL lab, IIIT-B.

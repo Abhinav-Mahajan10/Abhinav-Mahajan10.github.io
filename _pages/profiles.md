@@ -9,6 +9,12 @@ nav_order: 7
 
 ## Academic Advisors & Mentors
 
+- [Prof. Fernando de la Torre](https://www.cs.cmu.edu/~ftorre/) – CMU
+  My capstone advisor in the **Human Sensing Lab**, where I work on streaming 4D reconstructions.
+  
+- [Prof. Jeffrey Ichnowski](https://ichnow.ski/) – CMU
+  Previously advised my research on zero-shot rope manipulation in the **Momentum Lab**.
+  
 - [Prof. Dinesh Babu Jayagopi](https://www.iiitb.ac.in/faculty/dinesh-babu-jayagopi) & [Prof. Viswanath Gopalakrishnan](https://www.iiitb.ac.in/faculty/viswanath-gopalakrishnan) – IIIT Bangalore  
   Faculty advisors during multiple projects, courses, and reading electives. I worked under them in the **Multimodal Perception Lab** and also served as a Teaching Assistant for their courses.
 
@@ -19,11 +25,19 @@ nav_order: 7
 
 ## Industry Mentors & Managers
 
+### Aurora
+- [Steven Chen](https://www.stevenzc.com/) – Mentor  
+- [Nemanja Djuric](https://djurikom.github.io/) – Manager  
+
+### Amazon
+- [Arindam Sarkar](https://www.amazon.science/author/arindam-sarkar) – Mentor  
+- [Prakash Mandayam Comar](https://www.amazon.science/author/prakash-mandayam-comar) – Manager 
+
 ### Adobe
 - [KJ Joseph](https://josephkj.in/) – Mentor  
 - [Balaji Vasan Srinivasan](https://research.adobe.com/person/balaji-vasan-srinivasan/) – Manager 
 
-Research Associate Mentors
+<!-- Research Associate Mentors
 - [Abhikhya Tripathi](https://www.linkedin.com/in/abhikhya-tripathy-84b372221)
 - [Swasti Shreya Mishra](https://www.linkedin.com/in/swastishreyamishra)
 - [Prateksha Udhayanan](https://prateksha.github.io/)
@@ -32,8 +46,4 @@ Collaborated with co-interns:
 - [Sahil Goyal](https://sahilg06.github.io/) (IIT Roorkee)
 - [Vinay Kumar Cheerla](https://www.linkedin.com/in/vinay-kumar-cheerla) (IIT Bombay)
 - [Sudeeksha Reddy Pala](https://in.linkedin.com/in/sudeeksha2308) (IIT Kharagpur)
-- [Vaibhav Methi](https://in.linkedin.com/in/vaibhav-methi-136162227) (IIT Kanpur)
-
-### Amazon
-- [Arindam Sarkar](https://www.amazon.science/author/arindam-sarkar) – Mentor  
-- [Prakash Mandayam Comar](https://www.amazon.science/author/prakash-mandayam-comar) – Manager  
+- [Vaibhav Methi](https://in.linkedin.com/in/vaibhav-methi-136162227) (IIT Kanpur) -->
