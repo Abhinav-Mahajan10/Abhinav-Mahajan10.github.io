@@ -73,7 +73,7 @@ I graduated from IIIT Bangalore's Dual-Degree program (B. Tech + M. Tech, July 2
 
 I’m open to exploring full-time (starting Jan 2027) research and applied science opportunities in autonomous driving, embodied AI, 3D vision, and quantitative research.
 
-Outside work, I enjoy football, photography, playing guitar, and chess.
+Outside work, I enjoy football, [photography](https://drive.google.com/drive/folders/1ShIVGEHRhnv8ygXxR1UeB3Hc0M43v2MY?usp=sharing), playing guitar, and chess.
 
 <!-- I have been actively reviewing for conferences (CVPR, ICCV, ECCV, NeurIPS, and the Amazon Machine Learning Conference (AMLC)). -->
 
